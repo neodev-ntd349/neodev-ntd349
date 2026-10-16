@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🔥 NeoDEV
 
-<!--
-**neodev-ntd349/neodev-ntd349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring AI & Machine Learning Developer**
 
-Here are some ideas to get you started:
+> Learning by building. Turning ideas into practical AI projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🌱 Currently learning Python and Machine Learning fundamentals.
+- 🧠 Interested in AI, Deep Learning, and intelligent applications.
+- 🛠️ Building projects to turn theory into practice.
+- 🎯 Goal: Build useful and reliable AI-powered tools.
+
+### 🎯 Current Focus
+
+- Strengthening Python fundamentals
+- Learning data processing and Machine Learning
+- Exploring APIs and AI application development
+- Practicing Git and GitHub workflows
+
+### 🚀 My Philosophy
+
+*Learn consistently. Build meaningfully. Improve every day.*
+
+---
