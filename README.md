@@ -1,25 +1,5 @@
-# CIPHER
+Hi, I'm Cipher, a Software Engineering student passionate about Cyber Security. I'm continuously learning about networking, Linux, Python, and application security, with a strong focus on understanding how systems work and how to protect them.
 
-**Aspiring AI & Machine Learning Developer**
+My goal is to become a highly skilled Cyber Security Expert through continuous learning, hands-on practice, and real-world projects.
 
-> Learning by building. Turning ideas into practical AI projects.
-
-### 👨‍💻 About Me
-
-- 🌱 Currently learning Python and Machine Learning fundamentals.
-- 🧠 Interested in AI, Deep Learning, and intelligent applications.
-- 🛠️ Building projects to turn theory into practice.
-- 🎯 Goal: Build useful and reliable AI-powered tools.
-
-### 🎯 Current Focus
-
-- Strengthening Python fundamentals
-- Learning data processing and Machine Learning
-- Exploring APIs and AI application development
-- Practicing Git and GitHub workflows
-
-### 🚀 My Philosophy
-
-*Learn consistently. Build meaningfully. Improve every day.*
-
----
+**Learn deeply. Think critically. Secure relentlessly.**
