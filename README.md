@@ -1,5 +1,1 @@
-Hi, I'm Cipher, a Software Engineering student passionate about Cyber Security. I'm continuously learning about networking, Linux, Python, and application security, with a strong focus on understanding how systems work and how to protect them.
-
-My goal is to become a highly skilled Cyber Security Expert through continuous learning, hands-on practice, and real-world projects.
-
-**Learn deeply. Think critically. Secure relentlessly.**
+Hi, I'm Duc — a Software Engineering student working toward a career in AI Engineering. I'm focused on building solid fundamentals, learning through hands-on projects, and understanding how AI systems work beyond simply calling an API.
