@@ -1,1 +1,16 @@
-Hi, I'm Duc — a Software Engineering student working toward a career in AI Engineering. I'm focused on building solid fundamentals, learning through hands-on projects, and understanding how AI systems work beyond simply calling an API.
+# 👋 Hi, I'm [TrDcGmeDev]
+
+🎮 **Aspiring Unity Game Developer** 
+
+I'm a Computer Science student passionate about game development and building creative projects with Unity.
+
+## 🚀 Currently Learning
+- C# Programming
+- Unity Game Development
+- Data Structures & Algorithms
+- Git & GitHub
+
+## 🛠️ Technologies
+- **Languages:** C#
+- **Game Engine:** Unity
+- **Tools:** Visual Studio, Git, GitHub
